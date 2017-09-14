@@ -7,7 +7,7 @@ public class BallControl : MonoBehaviour {
 	private Vector2 vel;
 
 	void GoBall(){
-		float rand = Random.Range(0, 2);
+		float rand = UnityEngine.Random.Range(0, 2);
 		if(rand < 1){
 			rb2d.AddForce(new Vector2(20, -15));
 		} else {
