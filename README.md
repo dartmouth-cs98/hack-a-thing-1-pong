@@ -1,5 +1,7 @@
 # hack-a-thing-1-pong
 
+Using the tutorial at https://www.awesomeincu.com/tutorials/unity-pong/ 
+
 ## Description
 Pong is a 2D standalone game that allows 4 players to play ping pong using keyboard controls. The program picks a random direction for the ping pong ball at the start of each round.
 
@@ -10,4 +12,3 @@ Pong is a 2D standalone game that allows 4 players to play ping pong using keybo
 
 ## What didn't work
 
-Using the tutorial at https://www.awesomeincu.com/tutorials/unity-pong/ 
